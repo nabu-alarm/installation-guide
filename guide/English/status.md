@@ -5,7 +5,7 @@
 ### Features
 
 - [x] Suspend / Sleep Mode
-- [x] Audio
+- [x] Audio (top right speaker doesn't work)
 - [x] Battery status
 - [x] Bluetooth
 - [x] Brightness
