@@ -10,7 +10,7 @@
 - [x] Bluetooth
 - [x] Brightness
 - [ ] Slow charging
-- [x] Fast charging
+- [x] Fast charging (only with type-c <-> type-c cable)
 - [x] Display
 - [x] GPU
 - [x] Touchscreen
