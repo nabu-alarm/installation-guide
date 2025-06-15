@@ -1,6 +1,6 @@
 # Installing Arch Linux ARM on the Xiaomi Pad 5
 
-## Installation
+## Uninstallation
 
 ### Prerequisites
 
